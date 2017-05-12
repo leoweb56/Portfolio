@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## External libraries
 https://github.com/travelist/angular2-fontawesome (http://fontawesome.io)
+
 [Bootstrap](https://github.com/valor-software/ngx-bootstrap/blob/development/docs/getting-started/ng-cli.md)
 
 
